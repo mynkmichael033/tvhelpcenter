@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tvhelpcenter.readthedocs.io/en/latest/
